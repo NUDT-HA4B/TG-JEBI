@@ -49,7 +49,6 @@ python ptrnet_decoder.py 0,1,2 1027 DrugProt/data/ DrugProt/data/ptrnet_decode_m
 
 With great respect, we acknowledge the [BioCreative platform](https://biocreative.bioinformatics.udel.edu/) and extend our sincere appreciation to BioCreative [VI](https://biocreative.bioinformatics.udel.edu/tasks/biocreative-vi/track-5/) & [VII](https://biocreative.bioinformatics.udel.edu/tasks/biocreative-vii/track-1/) for generously providing the corpora and experimental data of various works.
 
-The computing resources available for this study are NVIDIA Tesla A100 (80G) GPUs provided by the Tianhe supercomputer at the National Supercomputing Center (Tianjin, China).
 
 ## Citation
 
